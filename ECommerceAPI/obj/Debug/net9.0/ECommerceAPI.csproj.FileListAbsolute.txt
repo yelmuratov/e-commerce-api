@@ -158,3 +158,5 @@
 /home/acer/Desktop/E-Commerce/e-commerce-api/ECommerceAPI/obj/Debug/net9.0/ECommerceAPI.pdb
 /home/acer/Desktop/E-Commerce/e-commerce-api/ECommerceAPI/obj/Debug/net9.0/ECommerceAPI.genruntimeconfig.cache
 /home/acer/Desktop/E-Commerce/e-commerce-api/ECommerceAPI/obj/Debug/net9.0/ref/ECommerceAPI.dll
+/home/acer/Desktop/E-Commerce/e-commerce-api/ECommerceAPI/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/acer/Desktop/E-Commerce/e-commerce-api/ECommerceAPI/bin/Debug/net9.0/BCrypt.Net-Next.dll
